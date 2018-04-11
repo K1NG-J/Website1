@@ -10,6 +10,25 @@ li {
     float: left;
 }
 
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+    font-size:25;
+}
+h5{
+    color: white;
+    font-size:25;
+}
+
+
 li a {
     display: block;
     color: white;
@@ -23,7 +42,7 @@ li a:hover {
 }
 
 body {
-    background-color: #fdfdfd;
+    background-color: #000000;
 }
 hr{
     color: pink;
